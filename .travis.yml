@@ -1,0 +1,11 @@
+dist: trusty
+language: php
+php:
+    - 5.5
+script:
+    - "./tests/python2.sh"
+    - "./tests/python3.sh"
+    - "./tests/php.sh"
+sudo: false
+matrix:
+    fast_finish: true
