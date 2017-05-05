@@ -1,0 +1,79 @@
+{
+    "attemptCount": 1,
+    "baseDir": "/Users/user/declaration",
+    "csvDir": "/Users/user/declaration/Result",
+    "deleteOriginal": false,
+    "doneList": [],
+    "extractArchive": true,
+    "extractStyle": false,
+    "extractText": true,
+    "fileList": [
+        {
+            "d": "/Users/user/declaration",
+            "n": "2013-2015.xlsx"
+        },
+        {
+            "d": "/Users/user/declaration",
+            "n": "2016.xlsx"
+        }
+    ],
+    "group": [
+        {
+            "field": [
+                {
+                    "beginString": {
+                        "char": "",
+                        "charNum": 1,
+                        "pos": 0,
+                        "type": 0
+                    },
+                    "endString": {
+                        "char": "",
+                        "charNum": 1,
+                        "pos": 0,
+                        "type": 0
+                    },
+                    "header": {
+                        "attribute": "",
+                        "exclude": null,
+                        "extractFrom": 0,
+                        "xpath": [
+                            "/html/body/div[2]/div[1]/table/tr[2]/td[node()]"
+                        ]
+                    },
+                    "headerType": 1,
+                    "length": 0,
+                    "name": "Таблица",
+                    "regex": "",
+                    "replaceFrom": "",
+                    "replaceTo": "",
+                    "text": {
+                        "attribute": "",
+                        "exclude": [
+                            "/html/body/div[2]/div[1]/table/tr[1]/td[node()]",
+                            "/html/body/div[2]/div[1]/table/tr[2]/td[node()]"
+                        ],
+                        "extractFrom": 0,
+                        "xpath": [
+                            "/html/body/div[2]/div[1]/table"
+                        ]
+                    },
+                    "useLength": false,
+                    "useRegex": false,
+                    "useReplace": false
+                }
+            ],
+            "name": "Декларации"
+        }
+    ],
+    "htmlDir": "/Users/user/declaration/HTML",
+    "join": true,
+    "joinLevel": 0,
+    "mergingMode": 1,
+    "proxyList": null,
+    "saveHtml": false,
+    "threadCount": 6,
+    "timeout": 20,
+    "useProxy": false,
+    "version": "1.0"
+}
