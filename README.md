@@ -1,6 +1,8 @@
 # Собрание парсеров
 
-Собрание скриптов для парсинга различных сайтов на языке PHP 5.x, Python 2.x, Python 3.x.
+[![Build Status](https://travis-ci.org/dmryutov/parsers.svg?branch=master)](https://travis-ci.org/dmryutov/parsers)
+
+Собрание скриптов для парсинга различных сайтов и документов с использованием PHP 5.x, Python 2.x, Python 3.x.
 
 ## Проекты:
 - [banki.ru](banki.ru) - парсер сайта «banki.ru» (PHP 5.x)
