@@ -32,8 +32,7 @@ def find_name(elements):
                         name = name[:-1 * len(ending)]
                 name = name.strip()
                 if name in settings.MONTH_LIST:
-                    name = text[:text.index(',')]
-                name = name.strip()
+                    name = text[:text.index(',')].strip()
                 break
         except Exception:  # pylint: disable=broad-except
             name = ''
@@ -69,6 +68,7 @@ def extract_acts(site):
 
                 row = [i]
                 elements = browser.find_elements_by_class_name('docValue')
+                # Iterate through all fields except last one (34 - 1 = 33)
                 for element in elements[:33]:
                     row.append(element.text)
 
@@ -101,7 +101,7 @@ def main():
     """
     @brief: Main function
     """
-    pool = Pool(processes=4)
+    pool = Pool(processes=len(settings.FIRST_ACT))
     pool.map(extract_acts, settings.FIRST_ACT)
     pool.close()
     pool.join()

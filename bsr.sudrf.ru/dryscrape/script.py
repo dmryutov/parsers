@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @brief:  Extract judicial acts from `bsr.sudrf.ru`
-@file:   scrape.py
+@file:   script.py
 @author: dmryutov (dmryutov@gmail.com)
 @date:   23.04.2017 -- 29.04.2017
 """
@@ -32,8 +32,7 @@ def find_name(elements):
                         name = name[:-1 * len(ending)]
                 name = name.strip()
                 if name in settings.MONTH_LIST:
-                    name = text[:text.index(',')]
-                name = name.strip()
+                    name = text[:text.index(',')].strip()
                 break
         except Exception:  # pylint: disable=broad-except
             name = ''

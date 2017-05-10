@@ -24,3 +24,17 @@
 - Поиск имени подсудимого в тексте судебного акта (последнее поле)
 - Переход на следующее дело путем нажатия на кнопку "Далее"
 - Повторять до тех пор, пока доступна кнопка "Далее"
+
+## Файлы
+- [clear.py](clear.py) - очистка загруженных данных
+- [db_scheme.pdf](db_scheme.pdf) - предполагаемая схема БД
+- [dryscrape](dryscrape) - версия с использованием Dryscrape
+	- [script.py](dryscrape/script.py) - загрузка данных
+	- [settings.py](dryscrape/settings.py) - файл настроек
+- [queries.sql](queries.sql) - полезные SQL запросы:
+	- вывод самых длинных значений в каждом столбце
+- [selenium](selenium) - версия с использованием Selenium
+	- [multiprocess.py](selenium/multiprocess.py) - реализация с несколькими процессами
+	- [multithread.py](selenium/multithread.py) - реализация с несколькими потоками
+	- [settings.py](selenium/settings.py) - файл настроек
+	- [single.py](selenium/single.py) - реализация с 1 потоком
