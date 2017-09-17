@@ -6,6 +6,7 @@
 
 ## Проекты:
 - [banki.ru](banki.ru) - парсер сайта «banki.ru» (PHP 5.x)
+- [bistroinfo.ru](bistroinfo.ru) - парсер сайта «БыстроИнфо» (-)
 - [bsr.sudrf.ru](bsr.sudrf.ru) - парсер сайта ГАС «Правосудие» (Python 3.x)
 - [cbr.ru](cbr.ru) - парсер сайта «Центральный банк Российской Федерации» (PHP 5.x)
 - [declarator.org](declarator.org) - парсер сайта «declarator.org» (Python 2.x)

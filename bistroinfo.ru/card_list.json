@@ -1,0 +1,2118 @@
+{
+    "attemptCount": 1,
+    "baseDir": "",
+    "csvDir": "/Users/dmryutov/Downloads/bistroinfo/Result",
+    "deleteOriginal": false,
+    "fileList": [
+        {
+            "l": "http://bistroinfo.ru/cards/all/"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/1200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/1500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/1800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/2100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/2400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/2700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/3000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/3300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/3600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/3900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/4200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/4500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/4800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/5100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/5400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/5700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/6000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/6300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/6600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/6900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/7200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/7500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/7800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/8100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/8400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/8700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/9000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/9300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/9600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/9900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/10200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/10500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/10800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/11100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/11400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/11700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/12000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/12300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/12600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/12900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/13200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/13500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/13800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/14100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/14400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/14700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/15000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/15300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/15600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/15900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/16200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/16500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/16800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/17100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/17400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/17700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/18000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/18300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/18600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/18900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/19200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/19500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/19800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/20100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/20400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/20700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/21000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/21300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/21600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/21900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/22200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/22500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/22800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/23100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/23400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/23700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/24000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/24300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/24600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/24900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/25200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/25500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/25800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/26100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/26400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/26700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/27000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/27300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/27600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/27900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/28200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/28500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/28800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/29100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/29400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/29700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/30000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/30300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/30600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/30900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/31200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/31500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/31800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/32100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/32400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/32700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/33000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/33300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/33600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/33900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/34200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/34500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/34800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/35100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/35400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/35700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/36000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/36300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/36600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/36900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/37200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/37500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/37800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/38100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/38400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/38700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/39000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/39300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/39600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/39900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/40200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/40500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/40800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/41100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/41400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/41700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/42000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/42300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/42600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/42900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/43200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/43500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/43800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/44100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/44400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/44700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/45000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/45300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/45600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/45900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/46200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/46500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/46800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/47100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/47400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/47700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/48000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/48300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/48600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/48900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/49200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/49500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/49800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/50100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/50400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/50700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/51000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/51300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/51600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/51900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/52200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/52500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/52800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/53100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/53400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/53700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/54000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/54300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/54600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/54900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/55200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/55500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/55800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/56100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/56400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/56700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/57000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/57300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/57600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/57900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/58200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/58500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/58800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/59100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/59400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/59700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/60000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/60300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/60600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/60900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/61200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/61500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/61800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/62100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/62400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/62700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/63000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/63300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/63600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/63900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/64200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/64500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/64800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/65100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/65400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/65700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/66000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/66300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/66600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/66900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/67200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/67500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/67800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/68100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/68400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/68700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/69000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/69300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/69600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/69900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/70200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/70500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/70800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/71100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/71400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/71700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/72000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/72300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/72600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/72900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/73200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/73500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/73800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/74100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/74400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/74700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/75000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/75300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/75600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/75900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/76200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/76500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/76800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/77100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/77400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/77700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/78000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/78300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/78600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/78900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/79200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/79500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/79800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/80100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/80400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/80700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/81000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/81300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/81600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/81900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/82200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/82500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/82800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/83100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/83400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/83700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/84000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/84300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/84600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/84900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/85200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/85500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/85800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/86100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/86400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/86700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/87000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/87300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/87600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/87900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/88200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/88500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/88800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/89100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/89400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/89700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/90000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/90300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/90600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/90900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/91200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/91500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/91800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/92100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/92400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/92700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/93000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/93300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/93600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/93900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/94200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/94500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/94800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/95100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/95400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/95700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/96000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/96300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/96600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/96900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/97200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/97500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/97800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/98100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/98400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/98700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/99000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/99300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/99600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/99900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/100200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/100500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/100800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/101100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/101400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/101700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/102000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/102300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/102600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/102900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/103200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/103500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/103800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/104100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/104400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/104700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/105000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/105300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/105600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/105900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/106200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/106500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/106800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/107100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/107400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/107700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/108000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/108300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/108600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/108900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/109200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/109500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/109800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/110100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/110400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/110700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/111000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/111300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/111600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/111900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/112200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/112500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/112800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/113100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/113400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/113700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/114000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/114300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/114600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/114900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/115200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/115500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/115800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/116100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/116400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/116700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/117000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/117300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/117600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/117900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/118200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/118500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/118800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/119100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/119400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/119700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/120000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/120300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/120600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/120900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/121200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/121500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/121800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/122100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/122400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/122700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/123000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/123300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/123600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/123900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/124200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/124500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/124800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/125100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/125400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/125700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/126000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/126300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/126600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/126900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/127200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/127500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/127800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/128100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/128400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/128700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/129000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/129300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/129600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/129900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/130200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/130500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/130800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/131100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/131400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/131700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/132000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/132300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/132600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/132900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/133200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/133500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/133800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/134100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/134400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/134700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/135000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/135300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/135600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/135900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/136200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/136500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/136800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/137100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/137400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/137700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/138000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/138300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/138600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/138900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/139200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/139500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/139800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/140100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/140400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/140700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/141000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/141300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/141600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/141900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/142200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/142500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/142800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/143100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/143400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/143700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/144000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/144300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/144600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/144900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/145200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/145500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/145800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/146100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/146400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/146700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/147000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/147300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/147600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/147900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/148200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/148500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/148800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/149100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/149400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/149700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/150000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/150300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/150600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/150900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/151200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/151500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/151800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/152100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/152400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/152700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/153000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/153300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/153600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/153900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/154200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/154500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/154800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/155100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/155400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/155700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/156000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/156300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/156600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/156900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/157200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/157500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/157800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/158100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/158400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/158700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/159000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/159300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/159600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/159900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/160200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/160500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/160800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/161100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/161400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/161700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/162000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/162300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/162600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/162900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/163200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/163500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/163800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/164100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/164400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/164700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/165000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/165300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/165600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/165900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/166200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/166500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/166800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/167100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/167400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/167700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/168000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/168300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/168600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/168900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/169200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/169500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/169800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/170100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/170400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/170700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/171000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/171300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/171600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/171900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/172200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/172500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/172800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/173100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/173400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/173700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/174000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/174300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/174600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/174900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/175200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/175500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/175800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/176100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/176400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/176700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/177000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/177300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/177600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/177900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/178200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/178500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/178800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/179100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/179400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/179700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/180000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/180300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/180600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/180900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/181200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/181500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/181800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/182100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/182400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/182700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/183000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/183300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/183600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/183900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/184200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/184500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/184800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/185100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/185400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/185700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/186000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/186300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/186600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/186900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/187200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/187500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/187800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/188100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/188400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/188700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/189000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/189300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/189600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/189900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/190200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/190500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/190800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/191100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/191400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/191700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/192000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/192300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/192600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/192900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/193200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/193500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/193800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/194100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/194400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/194700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/195000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/195300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/195600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/195900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/196200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/196500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/196800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/197100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/197400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/197700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/198000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/198300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/198600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/198900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/199200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/199500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/199800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/200100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/200400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/200700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/201000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/201300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/201600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/201900"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/202200"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/202500"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/202800"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/203100"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/203400"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/203700"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/204000"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/204300"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/204600"
+        },
+        {
+            "l": "http://bistroinfo.ru/cards/all/204900"
+        }
+    ],
+    "extractArchive": true,
+    "extractStyle": false,
+    "extractText": true,
+    "doneList": null,
+    "group": [
+        {
+            "field": [
+                {
+                    "beginString": {
+                        "char": "",
+                        "charNum": 1,
+                        "pos": 0,
+                        "type": 0
+                    },
+                    "endString": {
+                        "char": "",
+                        "charNum": 1,
+                        "pos": 0,
+                        "type": 0
+                    },
+                    "header": {
+                        "attribute": "",
+                        "exclude": null,
+                        "extractFrom": 0,
+                        "xpath": null
+                    },
+                    "headerType": 0,
+                    "length": 0,
+                    "name": "Ссылка",
+                    "regex": "",
+                    "replaceFrom": "/cards",
+                    "replaceTo": "http://bistroinfo.ru/cards",
+                    "text": {
+                        "attribute": "href",
+                        "exclude": null,
+                        "extractFrom": 1,
+                        "xpath": [
+                            "/html/body/div/div/div/main/div/div/div/div[node()]/a"
+                        ]
+                    },
+                    "useLength": false,
+                    "useRegex": false,
+                    "useReplace": true
+                }
+            ],
+            "name": "Ссылки"
+        }
+    ],
+    "htmlDir": "/Users/dmryutov/Downloads/bistroinfo/HTML",
+    "join": true,
+    "joinLevel": 0,
+    "mergingMode": 1,
+    "proxyList": null,
+    "saveHtml": false,
+    "threadCount": 6,
+    "timeout": 20,
+    "useProxy": false,
+    "version": "1.0"
+}
