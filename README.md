@@ -1,6 +1,6 @@
 # Собрание парсеров
 
-[![Build Status](https://travis-ci.org/dmryutov/parsers-test.svg?branch=master)](https://travis-ci.org/dmryutov/parsers-test)
+[![Build Status](https://travis-ci.org/dmryutov/parsers.svg?branch=master)](https://travis-ci.org/dmryutov/parsers)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 Собрание скриптов для парсинга различных сайтов и документов с использованием PHP 5.x, Python 2.x, Python 3.x.
