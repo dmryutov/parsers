@@ -2,7 +2,7 @@
 set -e
 
 echo "Testing Python 2.x projects..."
-python2 -m pip install pylint
+sudo python2 -m pip install pylint
 
 tasks=("declarator.org" "income_declaration")
 

@@ -2,12 +2,15 @@
 set -e
 
 echo "Testing Python 3.x projects..."
-python3 -m pip install pylint
-python3 -m pip install lxml
-python3 -m pip install selenium
-python3 -m pip install dryscrape
+sudo apt-get remove python3-pip
+sudo apt-get install python3
+sudo apt-get install python3-pip
+sudo python3 -m pip install pylint
+sudo python3 -m pip install lxml
+sudo python3 -m pip install selenium
+sudo python3 -m pip install dryscrape
 
-tasks=("bsr.sudrf.ru/selenium" "bsr.sudrf.ru/dryscrape")
+tasks=("bsr.sudrf.ru/selenium" "bsr.sudrf.ru/dryscrape" "bulgarian_declaration")
 
 for task in ${tasks[@]}; do
     echo "Testing: $task"

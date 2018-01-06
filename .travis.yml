@@ -1,5 +1,5 @@
 dist: trusty
-group: deprecated-2017Q3
+sudo: required
 language: php
 php:
     - 5.5
@@ -7,6 +7,5 @@ script:
     - "./tests/python2.sh"
     - "./tests/python3.sh"
     - "./tests/php.sh"
-sudo: false
 matrix:
-    fast_finish: true
+    fast_finish: false

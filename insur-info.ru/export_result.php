@@ -76,8 +76,11 @@ $aSheet->getColumnDimension('J')->setWidth(35);
 $i = 3;
 $l = 0;
 for ($f = 1; $f <= 70; $f++) {
-    $file = mb_convert_encoding(file_get_contents('files/article_'. $f .'.txt', true),
-                                'UTF-8', 'CP-1251');
+    $file = mb_convert_encoding(
+        file_get_contents('files/article_'. $f .'.txt', true),
+        'UTF-8',
+        'CP-1251'
+    );
     $file = str_replace("> <", '><', preg_replace('/\s+/', ' ', $file));
 
     // Load HTML as DOM

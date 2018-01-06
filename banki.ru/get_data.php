@@ -36,18 +36,27 @@ for ($i = 1; $i <= 1; $i++) {
     $dt1 = substr(str_replace('-', '_', $dt), 0, -3);
 
     // Indicator
-    $param = substr($file, strpos($file, '<div_pokazat>') + 13,
-                    strpos($file, '</div_pokazat>') - strpos($file, '<div_pokazat>') - 13);
+    $param = substr(
+        $file,
+        strpos($file, '<div_pokazat>') + 13,
+        strpos($file, '</div_pokazat>') - strpos($file, '<div_pokazat>') - 13
+    );
 
     // Bank name
-    $name = substr($file, strpos($file, '<div_name>') + 10,
-                   strpos($file, '</div_name>') - strpos($file, '<div_name>') - 10);
+    $name = substr(
+        $file,
+        strpos($file, '<div_name>') + 10,
+        strpos($file, '</div_name>') - strpos($file, '<div_name>') - 10
+    );
     if (empty($name)) {
         continue;
     }
     
-    $name = str_replace(array('&mdash;', '&laquo;', '&raquo;'),
-                        array('-', '«', '»'), $name);
+    $name = str_replace(
+        array('&mdash;', '&laquo;', '&raquo;'),
+        array('-', '«', '»'),
+        $name
+    );
     $name = explode('|||', $name);
     unset($name1);
     foreach ($name as $value) {
@@ -57,19 +66,30 @@ for ($i = 1; $i <= 1; $i++) {
             $name1[2][] = '-';
         } else {
             $name1[0][] = mb_convert_encoding(
-                              substr($value, strpos($value, '>') + 1,
-                                     strpos($value, '</a>') - strpos($value, '>') - 2),
-                              'UTF-8', 'CP-1251');
+                substr(
+                    $value,
+                    strpos($value, '>') + 1,
+                    strpos($value, '</a>') - strpos($value, '>') - 2
+                ),
+                'UTF-8',
+                'CP-1251'
+            );
             $t = mb_convert_encoding(
-                     substr($value, strpos($value, 'color-gray-burn')), 'UTF-8', 'CP-1251');
+                substr($value, strpos($value, 'color-gray-burn')),
+                'UTF-8',
+                'CP-1251'
+            );
             $name1[1][] = substr($t, strpos($t, '№') + 4, strpos($t, ',') - strpos($t, '№') - 4);
             $name1[2][] = substr($t, strpos($t, ',') + 2, strlen($t) - strpos($t, ',') - 9);
         }
     }
 
     // Raiting
-    $pos = substr($file, strpos($file, '<div_pos>') + 9,
-                  strpos($file, '</div_pos>') - strpos($file, '<div_pos>') - 9);
+    $pos = substr(
+        $file,
+        strpos($file, '<div_pos>') + 9,
+        strpos($file, '</div_pos>') - strpos($file, '<div_pos>') - 9
+    );
     $pos = explode('|||', $pos);
     unset($pos1);
     foreach ($pos as $value) {
@@ -81,8 +101,11 @@ for ($i = 1; $i <= 1; $i++) {
     }
 
     // Sum
-    $sum = substr($file, strpos($file, '<div_sum>') + 9,
-                  strpos($file, '</div_sum>') - strpos($file, '<div_sum>') - 9);
+    $sum = substr(
+        $file,
+        strpos($file, '<div_sum>') + 9,
+        strpos($file, '</div_sum>') - strpos($file, '<div_sum>') - 9
+    );
     $sum = str_replace('&minus;', '-', $sum);
     $sum = explode('|||', $sum);
     unset($sum1);

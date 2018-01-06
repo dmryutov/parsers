@@ -34,26 +34,41 @@ for ($f = 1; $f <= 46000; $f++) {
         continue;
     }
 
-    $file = mb_convert_encoding(file_get_contents('downloads/article_'. $f .'.txt', true),
-                                'UTF-8', 'CP-1251');
+    $file = mb_convert_encoding(
+        file_get_contents('downloads/article_'. $f .'.txt', true),
+        'UTF-8',
+        'CP-1251'
+    );
     $file = str_replace("> <", '><', preg_replace('/\s+/', ' ', $file));
     
     // Explode document parts
-    $head = substr($file, strpos($file, '<header_div>') + 12,
-                   strpos($file, '</header_div>') - strpos($file, '<header_div>') - 12);
-    $part2 = substr($file, strpos($file, '<part2_div>') + 11,
-                    strpos($file, '</part2_div>') - strpos($file, '<part2_div>') - 11);
-    $part3 = substr($file, strpos($file, '<part3_div>') + 11,
-                    strpos($file, '</part3_div>') - strpos($file, '<part3_div>') - 11);
+    $head = substr(
+        $file,
+        strpos($file, '<header_div>') + 12,
+        strpos($file, '</header_div>') - strpos($file, '<header_div>') - 12
+    );
+    $part2 = substr(
+        $file,
+        strpos($file, '<part2_div>') + 11,
+        strpos($file, '</part2_div>') - strpos($file, '<part2_div>') - 11
+    );
+    $part3 = substr(
+        $file,
+        strpos($file, '<part3_div>') + 11,
+        strpos($file, '</part3_div>') - strpos($file, '<part3_div>') - 11
+    );
     
     // Number
     $number = substr($head, strpos($head, '(порядковый номер)</td><td>') + 42);
     $number = substr($number, 0, strpos($number, '</td>'));
 
     // Date
-    $date = substr(str_replace('&nbsp;', ' ', $head),
-                   strpos($head, '<h1>') + 5, strpos($head, '</h1>') -
-                   strpos($head, '<h1>') - 4);
+    $date = substr(
+        str_replace('&nbsp;', ' ', $head),
+        strpos($head, '<h1>') + 5,
+        strpos($head, '</h1>') -
+        strpos($head, '<h1>') - 4
+    );
     $date = substr($date, strpos($date, ' 1 ') + 3, strpos($date, ' г.') -
                    strpos($date, ' 1 ') - 3);
     $date = explode(' ', $date);
@@ -69,8 +84,11 @@ for ($f = 1; $f <= 46000; $f++) {
     mysql_query("CREATE TABLE IF NOT EXISTS `banks_".$y."_$m` (bank_id integer, ".
                 "total varchar(50), `date` date, indicator varchar(20))") or die(mysql_error());
 
-    $part2 = substr($part2, strpos($part2, '<li>') + 4,
-                    strrpos($part2, '</li>') - strpos($part2, '<li>') - 4);
+    $part2 = substr(
+        $part2,
+        strpos($part2, '<li>') + 4,
+        strrpos($part2, '</li>') - strpos($part2, '<li>') - 4
+    );
     $part2 = explode('</li><li>', $part2);
     foreach ($part2 as $value) {
         $value = str_replace(array('<sub>', '</sub>', ' ', chr(194).chr(160)), '', $value);

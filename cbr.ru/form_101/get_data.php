@@ -35,25 +35,43 @@ for ($f = 1; $f <= 25000; $f++) {
         continue;
     }
 
-    $file = mb_convert_encoding(file_get_contents('downloads/article_'. $f .'.txt', true),
-                                'UTF-8', 'CP-1251');
+    $file = mb_convert_encoding(
+        file_get_contents('downloads/article_'. $f .'.txt', true),
+        'UTF-8',
+        'CP-1251'
+    );
     $file = str_replace("> <", '><', preg_replace('/\s+/', ' ', $file));
     
     // Explode document parts
-    $head = substr($file, strpos($file, '<header_div>') + 12,
-                   strpos($file, '</header_div>') - strpos($file, '<header_div>') - 12);
-    $body = substr($file, strpos($file, '<body_div>') + 10,
-                   strpos($file, '</body_div>') - strpos($file, '<body_div>') - 10);
+    $head = substr(
+        $file,
+        strpos($file, '<header_div>') + 12,
+        strpos($file, '</header_div>') - strpos($file, '<header_div>') - 12
+    );
+    $body = substr(
+        $file,
+        strpos($file, '<body_div>') + 10,
+        strpos($file, '</body_div>') - strpos($file, '<body_div>') - 10
+    );
     
     // Number
-    $number = substr($head, strpos($head, 'номер</td><td>') + 19,
-                     strrpos($head, '</tr>', -1) - strpos($head, 'номер</td>') - 24);
+    $number = substr(
+        $head,
+        strpos($head, 'номер</td><td>') + 19,
+        strrpos($head, '</tr>', -1) - strpos($head, 'номер</td>') - 24
+    );
 
     // Date
-    $date = substr($head, strpos($head, '<h1>') + 4,
-                   strpos($head, '</h1>') - strpos($head, '<h1>') - 4);
-    $date = substr($head, strpos($head, 'sp;1 ') + 5,
-                   strpos($head, ' г.') - strpos($head, '&nbsp;') - 5);
+    $date = substr(
+        $head,
+        strpos($head, '<h1>') + 4,
+        strpos($head, '</h1>') - strpos($head, '<h1>') - 4
+    );
+    $date = substr(
+        $head,
+        strpos($head, 'sp;1 ') + 5,
+        strpos($head, ' г.') - strpos($head, '&nbsp;') - 5
+    );
     $date = explode(' ', $date);
     foreach ($month_list[1] as $key => $value) {
         if ($date[0] == $value) {

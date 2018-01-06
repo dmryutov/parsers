@@ -23,10 +23,12 @@ foreach ($file as $value) {
             } else {
                 $m2 = $m;
             }
-            file_put_contents('links.txt',
+            file_put_contents(
+                'links.txt',
                 'http://www.cbr.ru/credit/101.asp?regnum='. $value .
                 '&when=0&dt='.$y .$m2 .'01'. "\r\n",
-                FILE_APPEND);
+                FILE_APPEND
+            );
         }
     }
 
