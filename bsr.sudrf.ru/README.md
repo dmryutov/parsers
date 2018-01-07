@@ -38,3 +38,5 @@
 	- [multithread.py](selenium/multithread.py) - реализация с несколькими потоками
 	- [settings.py](selenium/settings.py) - файл настроек
 	- [single.py](selenium/single.py) - реализация с 1 потоком
+	- [update_settings.py](selenium/update_settings.py) - файл настроек для скрипта обновления базы
+	- [update.py](selenium/update.py) - обновление базы данных
